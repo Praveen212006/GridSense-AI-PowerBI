@@ -265,3 +265,9 @@ GridSense-AI-PowerBI/
 │   └── Grid_Sense_Page 4.png
 │
 └── README.md
+
+## Author
+
+**Developed by:** Praveen M  
+**Organization:** Anudip Foundation  
+**Batch:** AI&ML
