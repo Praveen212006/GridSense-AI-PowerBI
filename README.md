@@ -1,5 +1,11 @@
 # GridSense AI
 
+## Author
+
+**Developed by:** Praveen M  
+**Organization:** Anudip Foundation  
+**Batch:** AI&ML
+
 ## AI-Powered Smart Grid, Energy Demand & Anomaly Intelligence Platform
 
 GridSense AI is a Power BI-based smart-grid analytics project developed to analyze energy consumption, solar generation, weather conditions, anomaly indicators, energy demand patterns, and risk-related information.
@@ -265,9 +271,3 @@ GridSense-AI-PowerBI/
 │   └── Grid_Sense_Page 4.png
 │
 └── README.md
-
-## Author
-
-**Developed by:** Praveen M  
-**Organization:** Anudip Foundation  
-**Batch:** AI&ML
